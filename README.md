@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kajalsharma6
+- 👀 I’m interested in Web Devlopments , tools making etc
+- 🌱 I’m currently learning ... HTML,CSS,Javascript and python
